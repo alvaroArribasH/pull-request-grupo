@@ -8,14 +8,14 @@ echo"
 	</body>
 	<script>
     function formatearNombre(){
-        var inputFormulario = document.getElementById("nombre");
+        var inputFormulario = document.getElementById('nombre');
         var nombre = inputFormulario.value;
         var resultado = nombre.toLowerCase();
         inputFormulario.value = resultado;
         return;
     }
     function esMayor(){
-        var edad = document.getElementById("edad").value;
+        var edad = document.getElementById('edad').value;
         if(edad < 18){
             return false;
         }
