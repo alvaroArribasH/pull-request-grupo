@@ -5,4 +5,5 @@ echo("<form name=Formulario1 action=index.php method=POST>");
     echo("<br>");
     echo("edad<input type=number>")
 echo("</form>");
+//fdnkjjfdskndf
 ?>
