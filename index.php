@@ -6,7 +6,7 @@ echo"
 	<body>
 		<h2>GitHub y pull request</h2>
 	</body>
-	<script>
+	<scrit>
     function formatearNombre(){
         var inputFormulario = document.getElementById('nombre');
         var nombre = inputFormulario.value;
