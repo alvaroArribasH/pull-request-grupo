@@ -14,6 +14,7 @@ echo"
         inputFormulario.value = resultado;
         return;
     }
+    //prueba
     function esMayor(){
         var edad = document.getElementById('edad').value;
         if(edad < 18){
